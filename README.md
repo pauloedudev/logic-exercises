@@ -1,1 +1,1 @@
-# logic-exercises
+# Logic and Algorithm Exercises
